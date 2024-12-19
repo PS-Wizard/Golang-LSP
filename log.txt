@@ -1,0 +1,15 @@
+[educationallsp]2024/10/21 11:48:14 main.go:16: Hey I Started
+[educationallsp]2024/10/21 11:48:14 main.go:34: Received msg with method initialize
+[educationallsp]2024/10/21 11:48:14 main.go:41: Connected to: Neovim 0.10.1+v0.10.1
+[educationallsp]2024/10/21 11:48:14 main.go:48: Sent the reply
+[educationallsp]2024/10/21 11:48:14 main.go:34: Received msg with method initialized
+[educationallsp]2024/10/21 11:48:14 main.go:34: Received msg with method textDocument/didOpen
+[educationallsp]2024/10/21 11:48:14 main.go:56: Connected to: file:///home/nathan/Golang-LSP/README.md 
+[educationallsp]2024/10/21 11:48:14 main.go:71: Wrote to file:///home/nathan/Golang-LSP/README.md diagnostics  []
+[educationallsp]2024/10/21 11:48:15 main.go:34: Received msg with method textDocument/didChange
+[educationallsp]2024/10/21 11:48:15 main.go:79: Changed: file:///home/nathan/Golang-LSP/README.md
+[educationallsp]2024/10/21 11:48:15 main.go:34: Received msg with method textDocument/didChange
+[educationallsp]2024/10/21 11:48:15 main.go:79: Changed: file:///home/nathan/Golang-LSP/README.md
+[educationallsp]2024/10/21 11:48:16 main.go:34: Received msg with method textDocument/didSave
+[educationallsp]2024/10/21 11:48:17 main.go:34: Received msg with method textDocument/didSave
+[educationallsp]2024/10/21 11:48:17 main.go:34: Received msg with method shutdown
